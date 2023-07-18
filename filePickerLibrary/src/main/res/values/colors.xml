@@ -1,0 +1,7 @@
+<resources>
+    <color name="white">#FFFFFF</color><!--白色 -->
+    <color name="picture_color_black">#000000</color>
+    <color name="picture_color_transparent">#00000000</color>
+    <color name="picture_color_20c064">#20c064</color>
+    <color name="picture_color_a83">#a8333333</color>
+</resources>
